@@ -1,0 +1,119 @@
+.footer-wrapper{
+    max-width: 1089px;
+    margin: 90px auto;
+}
+
+.left-side__footer{
+    padding-top: 38px;
+    display: flex;
+    gap: 217px;
+}
+
+.left__footer{
+display: flex;
+gap: 60px;
+align-items: center;
+}
+
+.top-side__footer{
+    display: flex;
+    gap: 116px;
+}
+
+.top__text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #112F53;
+}
+
+
+.footer__nav-bar{
+    padding-top: 30px;
+}
+
+.footer__nav-bar{
+    display: flex;
+    gap: 72px;
+}
+
+.bar__about-us ul li{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #0A142F;
+}
+
+.bar__about-us ul li:not(:last-child){
+    margin-bottom:8px ;
+}
+
+.bar__online-contacts ul li{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.7;
+    color: #0A142F;
+}
+
+.bar__online-contacts ul li:not(:last-child){
+    margin-bottom:9px ;
+}
+
+
+.icon-arrow{
+    margin-top: 30px;
+    width: 52px;
+    height: 52px;
+    background: #125D98;
+    border-radius: 50%;
+    padding: 15px 20px 17px 15px;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.bottom__footer{
+    display: flex;
+    gap: 295px;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 34px;
+}
+
+.number{
+    margin-bottom: 27px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #0A142F;
+    border-bottom: 1px solid #125D98;;
+    cursor: pointer;
+
+}
+
+.maket-name{
+    display: flex;
+    align-items: flex-end;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #0A142F;
+    opacity: 0.65;
+}
+
+
+.gmail-contact{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #0A142F;
+    border-bottom: 1px solid #125D98;
+    cursor: pointer;
+}
