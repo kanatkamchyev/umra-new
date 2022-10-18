@@ -1,0 +1,115 @@
+.main-wrapper{
+    max-width: 1162px;
+    margin:77px auto;
+    display: flex;
+}
+
+
+
+.zamzam-inside{
+    background: #FFFFFF;
+    border: 1px solid #DAEDFB;
+    border-radius: 16px;
+    padding: 137px  88px 137px 87px;
+}
+
+.main-wrapper__online-contacts{
+    margin-top: 37px;
+    display: flex;
+    gap: 27px;
+}
+
+
+
+
+
+.main-contacts__radius{
+    width: 48px;
+    height: 48px;
+    border-radius: 39.7313px;
+    font-size: 24px;
+    color: #125D98;
+    padding: 12px;
+}
+
+.main-contacts__radius:hover{
+    background-color: #125D98;
+    color: white;
+
+    cursor: pointer;
+}
+
+.main-wrapper__arab img{
+    position: relative;
+    left: -120px;
+    top: -70px;
+}
+
+.right-inside__turist-reality{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.right-inside__hotel-place{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    display: flex;
+
+    color: #0C0C0C;
+
+}
+
+.right-inside__bars{
+    display: flex;
+    gap: 59px;
+    margin-top: 54px;
+}
+
+.left-bar__list{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.right-bar__list{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.left-bar__list b{
+    width: 28px;
+    height: 28px;
+    padding:3px 9px ;
+    background: #125D98;
+    border-radius: 89px;
+    color: white;
+    font-size: 16px;
+}
+
+.left-bar__list:not(:last-child){
+    margin-bottom: 28px;
+}
+
+.right-bar__list b{
+    width: 28px;
+    height: 28px;
+    padding:3px 9px ;
+    background: #125D98;
+    border-radius: 89px;
+    color: white;
+    font-size: 16px;
+}
+
+.right-bar__list:not(:last-child){
+    margin-bottom: 28px;
+
+}
+
+
+
