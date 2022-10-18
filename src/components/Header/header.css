@@ -1,0 +1,114 @@
+
+.wrapper-home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 23.42px 0 0 0;
+}
+
+.wrapper-home__nav-bars ul{
+    display: flex;
+    gap: 60px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 165%;
+    /* or 26px */
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.wrapper-home__nav-bars ul li{
+    cursor: pointer;
+}
+
+.wrapper-home__nav-bars ul li.active{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center #3FA0EC; 
+    border-bottom: 1px solid;
+    color: #3FA0EC;
+}
+
+.wrapper-home__come-in{
+    cursor: pointer;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.wrapper-footer__inside{
+    padding: 20px 45px 23px 54px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 36.1798px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper-footer{
+    margin-top: 826px;
+}
+
+.wrapper-begin{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.wrapper-begin{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.wrapper-footer__search{
+    width: 52px;
+    height: 52px;
+    padding: 14px;
+    background: #125D98;
+    border-radius: 64px;
+    color: white;
+    cursor: pointer;
+}
+
+
+.wrapper-date{
+    margin-top: 16px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #112F53;
+}
+
+.wrapper-foot{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.wrapper-date__ajy {
+    font-size: 15px;
+    border: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #112F53;
+}
