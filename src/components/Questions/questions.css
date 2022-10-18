@@ -1,0 +1,16 @@
+.question-wrapper{
+    max-width: 1116px;
+    margin: 0 auto;
+}
+
+
+
+.question-wrapper__usually{
+    padding: 197px 0 119px 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 45px;
+    color: #125D98;
+
+}
