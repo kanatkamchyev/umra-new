@@ -1,0 +1,32 @@
+.hadja-wrapper{
+    max-width: 1116px;
+    margin: 200px auto;
+}
+
+.hadja__list{
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48pxp;
+    color: #125D98;
+
+}
+
+.hadja-wrapper__inside{
+    margin-top: 51px;
+    display: flex;
+    gap: 52px;
+    align-items: center;
+}
+
+.hadja-right__text{
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #112F53;
+}
